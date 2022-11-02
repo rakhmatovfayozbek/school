@@ -1,1 +1,37 @@
-
+.h1class {
+          text-align: center;
+          font-family: Arial, Helvetica, sans-serif;
+}
+.li_item {
+          font-family: Arial, Helvetica, sans-serif;
+          background-color: white;
+          display: inline;
+          width: 20px;
+          /*height: 20px; */
+          margin: 20px;
+}
+.li {
+          font-family: Arial, Helvetica, sans-serif;
+          background-color: white;
+          display: inline;
+          width: 20px;
+          /*height: 20px; */
+          margin: 20px;
+}
+.li2 {
+          font-family: Arial, Helvetica, sans-serif;
+          background-color: white;
+          display: inline;
+          width: 20px;
+          /*height: 20px; */
+          margin: 20px;
+}
+.lem {
+          font-family: Arial, Helvetica, sans-serif;
+}
+.lel {
+          font-family: Arial, Helvetica, sans-serif;
+}
+.les {
+         font-family: Arial, Helvetica, sans-serif; 
+}
